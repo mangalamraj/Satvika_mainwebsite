@@ -1,0 +1,31 @@
+.wb-ebaic-color-red{
+	color: #dc3232;
+}
+
+.wb-ebaic-color-blue{
+	color: #00a0d2;
+}
+
+.wb-ebaic-extra-bold{
+	font-weight: 900;
+}
+
+.wb-ebaic-bold{
+	font-weight: 700;
+}
+
+.wb-ebaic-mx-10{
+	margin: 0 10px;
+}
+
+.wb-ebaic-font-16{
+	font-size: 16px;
+}
+
+.wb-ebaic-font-14{
+	font-size: 14px;
+}
+
+.text-decoration-none{
+	text-decoration: none;
+}

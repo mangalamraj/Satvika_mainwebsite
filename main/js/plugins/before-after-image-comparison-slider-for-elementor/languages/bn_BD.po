@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Before After Image Comparison Slider for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-17 16:14+0000\n"
+"PO-Revision-Date: 2019-07-17 16:38+0000\n"
+"Language-Team: বাংলা\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2\n"
+"Last-Translator: admincp <admincp@gmail.com>\n"
+"Language: bn-BD"
+
+#: widgets/before-after.php:130
+msgid "After"
+msgstr "পর"
+
+#: widgets/before-after.php:129
+msgid "Before"
+msgstr "আগে"
+
+#. Name of the plugin
+msgid "Before After Image Comparison Slider for Elementor"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Before After Image Comparison Slider for Elementor is an image comparison "
+"slider \t\t\t\t plugin. This plugin allows you to create the effect for "
+"comparing two before and \t\t\t   after images."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/webbuilder03"
+msgstr ""
+
+#. Author of the plugin
+msgid "Web Builder03"
+msgstr ""

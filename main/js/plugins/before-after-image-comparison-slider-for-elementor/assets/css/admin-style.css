@@ -1,0 +1,24 @@
+i.qc_sld_btn {
+    background-image: url(sld-button.png);
+    width: 60px !important;
+
+    background-size: 60px 20px;
+    background-repeat: no-repeat;
+}
+.sld_info_carousel {
+	padding:10px;
+	width: 96%;
+    margin-left: 24px;
+}
+.sld-notice {
+   background: #9b8fd8;
+   color: #fff;
+   margin-left: 0px;
+}
+
+.sld-notice {
+   border-left-color: #f50029;
+}
+.nav-tab:focus{
+	box-shadow:unset !important;
+}

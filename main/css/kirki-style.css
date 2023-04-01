@@ -1,0 +1,1088 @@
+
+@font-face {
+	font-family: "CircularStd";
+	src: url(fonts/CircularStd-Book.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "CircularStd";
+	src: url(fonts/CircularStd-Bold.woff) format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
+
+#right-click-content {
+    background: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+}
+body,
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="url"],
+input[type="date"],
+input[type="tel"],
+input.wpcf7-text,
+.woocommerce table.cart td.actions .coupon .input-text,
+.woocommerce-page table.cart td.actions .coupon .input-text,
+.woocommerce #content table.cart td.actions .coupon .input-text,
+.woocommerce-page #content table.cart td.actions .coupon .input-text,
+select,
+textarea,
+.ui-widget input,
+.ui-widget select,
+.ui-widget textarea,
+.ui-widget button,
+.ui-widget label,
+.ui-widget-header,
+.zm_alr_ul_container {
+    font-family: CircularStd;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8;
+    text-transform: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7,
+.post_quote_title,
+strong[itemprop="author"],
+#page-content-wrapper .posts.blog li a,
+.page-content-wrapper .posts.blog li a,
+#filter_selected,
+blockquote,
+.sidebar-widget li.widget_products,
+#footer ul.sidebar-widget li ul.posts.blog li a,
+.woocommerce-page table.cart th,
+table.shop_table thead tr th,
+.testimonial_slider_content,
+.pagination,
+.pagination-detail,
+.starto-portfolio-filter-wrapper a.filter-tag-btn,
+.portfolio-coverflow .swiper-slide .swiper-content .article .article-preview .controls label,
+.portfolio-timeline-vertical-content-wrapper .timeline .swiper-pagination-bullet,
+.elementor-tab-title,
+.testimonials-card-wrapper .owl-carousel .testimonial-name {
+    font-family: CircularStd;
+    font-weight: 700;
+    line-height: 1.7;
+    text-transform: none;
+}
+h1 {
+    font-size: 36px;
+}
+h2 {
+    font-size: 32px;
+}
+h3 {
+    font-size: 30px;
+}
+h4 {
+    font-size: 28px;
+}
+h5 {
+    font-size: 26px;
+}
+h6 {
+    font-size: 22px;
+}
+body,
+#wrapper,
+#page-content-wrapper.fixed,
+#gallery_lightbox h2,
+.slider_wrapper .gallery_image_caption h2,
+#body_loading_screen,
+h3#reply-title span,
+.overlay_gallery_wrapper,
+.pagination a,
+.pagination span,
+#captcha-wrap .text-box input,
+.flex-direction-nav a,
+.blog_promo_title h6,
+#supersized li,
+#horizontal_gallery_wrapper .image_caption,
+body.password-protected #page-content-wrapper .inner .inner-wrapper .sidebar-content,
+body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"],
+body .ui-dialog[aria-describedby="ajax-login-register-dialog"],
+#single-course-meta {
+    background-color: #ffffff;
+}
+body,
+.pagination a,
+#gallery_lightbox h2,
+.slider_wrapper .gallery_image_caption h2,
+.post_info a,
+#page-content-wrapper.split #copyright,
+.page-content-wrapper.split #copyright,
+.ui-state-default a,
+.ui-state-default a:link,
+.ui-state-default a:visited,
+.woocommerce-MyAccount-navigation ul a,
+.post-navigation.previous .navigation-anchor,
+.post-navigation.next .navigation-anchor {
+    color: #000000;
+}
+::selection,
+.verline {
+    background-color: #000000;
+}
+::-webkit-input-placeholder {
+    color: #000000;
+}
+::-moz-placeholder {
+    color: #000000;
+}
+:-ms-input-placeholder {
+    color: #000000;
+}
+a,
+.gallery_proof_filter ul li a,
+#page-content-wrapper .sidebar .content .sidebar-widget li.widget_rss ul li cite,
+#footer-wrapper ul.sidebar-widget li.widget_rss ul li cite {
+    color: #0055ff;
+}
+.flex-control-paging li a.flex-active,
+.post-attribute a:before,
+#menu-wrapper .nav ul li a:before,
+#menu-wrapper div .nav li > a:before,
+.post-attribute a:before {
+    background-color: #0055ff;
+}
+.flex-control-paging li a.flex-active,
+.image_boxed_wrapper:hover,
+.gallery_proof_filter ul li a.active,
+.gallery_proof_filter ul li a:hover {
+    border-color: #0055ff;
+}
+a:hover,
+a:active,
+.post_info_comment a i,
+#commentform .required,
+#page-content-wrapper .sidebar .content .sidebar-widget li.widget_rss ul li .rss-date,
+#footer-wrapper ul.sidebar-widget li.widget_rss ul li .rss-date {
+    color: #0055ff;
+}
+input[type="button"]:hover,
+input[type="submit"]:hover,
+a.button:hover,
+.button:hover,
+.button.submit,
+a.button.white:hover,
+.button.white:hover,
+a.button.white:active,
+.button.white:active,
+#menu-wrapper .nav ul li a:hover:before,
+#menu-wrapper div .nav li > a:hover:before,
+.post-attribute a:hover:before {
+    background-color: #0055ff;
+}
+input[type="button"]:hover,
+input[type="submit"]:hover,
+a.button:hover,
+.button:hover,
+.button.submit,
+a.button.white:hover,
+.button.white:hover,
+a.button.white:active,
+.button.white:active,
+.sidebar-widget li.widget_recent_comments ul li.recentcomments a:hover {
+    border-color: #0055ff;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7,
+pre,
+code,
+tt,
+blockquote,
+.post-header h5 a,
+.post-header h3 a,
+.post-header.grid h6 a,
+.post-header.fullwidth h4 a,
+.post-header h5 a,
+blockquote,
+.site_loading_logo_item i,
+.ppb_subtitle,
+.woocommerce .woocommerce-ordering select,
+.woocommerce #page-content-wrapper a.button,
+.woocommerce.columns-4 ul.products li.product a.add_to_cart_button,
+.woocommerce.columns-4 ul.products li.product a.add_to_cart_button:hover,
+.ui-accordion .ui-accordion-header a,
+.tabs .ui-state-active a,
+.post-header h5 a,
+.post-header h6 a,
+.flex-direction-nav a:before,
+.social_share_button_wrapper .social_post_view .view_number,
+.social_share_button_wrapper .social_post_share_count .share_number,
+.portfolio_post_previous a,
+.portfolio_post_next a,
+#filter_selected,
+#autocomplete li strong,
+.themelink,
+body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .ui-dialog-titlebar .ui-dialog-title,
+body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .ui-dialog-titlebar .ui-dialog-title {
+    color: #000000;
+}
+body.page.page-template-gallery-archive-split-screen-php #fp-nav li .active span,
+body.tax-gallerycat #fp-nav li .active span,
+body.page.page-template-portfolio-fullscreen-split-screen-php #fp-nav li .active span,
+body.page.tax-portfolioset #fp-nav li .active span,
+body.page.page-template-gallery-archive-split-screen-php #fp-nav ul li a span,
+body.tax-gallerycat #fp-nav ul li a span,
+body.page.page-template-portfolio-fullscreen-split-screen-php #fp-nav ul li a span,
+body.page.tax-portfolioset #fp-nav ul li a span {
+    background-color: #000000;
+}
+hr,
+.post.type-post,
+.comment .right,
+.widget_tag_cloud div a,
+.meta-tags a,
+.tag_cloud a,
+#footer,
+#post_more_wrapper,
+#page-content-wrapper .inner .sidebar-content,
+#page-content-wrapper .inner .sidebar-content.left-sidebar,
+.ajax_close,
+.ajax_next,
+.ajax_prev,
+.portfolio_next,
+.portfolio_prev,
+.portfolio_next_prev_wrapper.video .portfolio_prev,
+.portfolio_next_prev_wrapper.video .portfolio_next,
+.separated,
+.blog_next_prev_wrapper,
+#post_more_wrapper h5,
+#ajax_portfolio_wrapper.hidding,
+#ajax_portfolio_wrapper.visible,
+.tabs.vertical .ui-tabs-panel,
+.ui-tabs.vertical.right .ui-tabs-nav li,
+.woocommerce div.product .woocommerce-tabs ul.tabs li,
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li,
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li,
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li,
+.woocommerce div.product .woocommerce-tabs .panel,
+.woocommerce-page div.product .woocommerce-tabs .panel,
+.woocommerce #content div.product .woocommerce-tabs .panel,
+.woocommerce-page #content div.product .woocommerce-tabs .panel,
+.woocommerce table.shop_table,
+.woocommerce-page table.shop_table,
+.woocommerce .cart-collaterals .cart_totals,
+.woocommerce-page .cart-collaterals .cart_totals,
+.woocommerce .cart-collaterals .shipping_calculator,
+.woocommerce-page .cart-collaterals .shipping_calculator,
+.woocommerce .cart-collaterals .cart_totals tr td,
+.woocommerce .cart-collaterals .cart_totals tr th,
+.woocommerce-page .cart-collaterals .cart_totals tr td,
+.woocommerce-page .cart-collaterals .cart_totals tr th,
+table tr th,
+table tr td,
+.woocommerce #payment,
+.woocommerce-page #payment,
+.woocommerce #payment ul.payment_methods li,
+.woocommerce-page #payment ul.payment_methods li,
+.woocommerce #payment div.form-row,
+.woocommerce-page #payment div.form-row,
+.ui-tabs li:first-child,
+.ui-tabs .ui-tabs-nav li,
+.ui-tabs.vertical .ui-tabs-nav li,
+.ui-tabs.vertical.right .ui-tabs-nav li.ui-state-active,
+.ui-tabs.vertical .ui-tabs-nav li:last-child,
+#page-content-wrapper .inner .sidebar-wrapper ul.sidebar-widget li.widget_nav_menu ul.menu li.current-menu-item a,
+.page-content-wrapper .inner .sidebar-wrapper ul.sidebar-widget li.widget_nav_menu ul.menu li.current-menu-item a,
+.ui-accordion .ui-accordion-header,
+.ui-accordion .ui-accordion-content,
+#page-content-wrapper .sidebar .content .sidebar-widget li h2.widgettitle:before,
+h2.widgettitle:before,
+#autocomplete,
+.ppb_blog_minimal .one-third_bg,
+.tabs .ui-tabs-panel,
+.ui-tabs .ui-tabs-nav li,
+.ui-tabs li:first-child,
+.ui-tabs.vertical .ui-tabs-nav li:last-child,
+.woocommerce .woocommerce-ordering select,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce-page table.cart th,
+table.shop_table thead tr th,
+hr.title_break,
+.overlay_gallery_border,
+#page-content-wrapper.split #copyright,
+.page-content-wrapper.split #copyright,
+.post.type-post,
+.events.type-events,
+h5.event_title,
+.post-header h5.event_title,
+.client_archive_wrapper,
+#page-content-wrapper .sidebar .content .sidebar-widget li.widget,
+.page-content-wrapper .sidebar .content .sidebar-widget li.widget,
+hr.title_break.bold,
+blockquote,
+.social_share_button_wrapper,
+.social_share_button_wrapper,
+body:not(.single) .post-wrapper,
+.theme-border,
+#about-the-author,
+.related.products,
+.woocommerce div.product div.summary .product_meta,
+#single-course-meta ul.single-course-meta-data li.single-course-meta-data-separator,
+body .course-curriculum ul.curriculum-sections .section-header,
+.course-reviews-list li,
+.course-reviews-list-shortcode li,
+.wp-block-table,
+.wp-block-table td,
+.wp-block-table th,
+.wp-block-table.is-style-stripes td,
+.wp-block-table.is-style-stripes th,
+table,
+.widget_categories ul > li,
+.widget_pages ul > li,
+.widget_archive ul > li,
+#page-content-wrapper .sidebar .content .sidebar-widget li h2.widgettitle:before,
+h2.widgettitle:before,
+#page-content-wrapper .sidebar .content .sidebar-widget li h2.widgettitle:after,
+h2.widgettitle:after,
+.woocommerce table.shop_table tbody tr.cart_item td {
+    border-color: #d8d8d8;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="url"],
+input[type="tel"],
+input[type="date"],
+textarea {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+input[type="submit"],
+input[type="button"],
+a.button,
+.button,
+.woocommerce .page_slider a.button,
+a.button.fullwidth,
+.woocommerce-page div.product form.cart .button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"],
+body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"],
+.select2-container--default .select2-selection--single {
+    font-family: CircularStd;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    text-transform: none;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="url"],
+input[type="tel"],
+input[type="date"],
+textarea,
+.widget_search form {
+    background-color: #ffffff;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="url"],
+input[type="tel"],
+input[type="date"],
+textarea.widget_search input.search-field {
+    color: #0055ff;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="url"],
+input[type="tel"],
+input[type="date"],
+textarea,
+.select2-container--default .select2-selection--single,
+.select2-dropdown,
+.widget_search form {
+    border-color: #d8d8d8;
+}
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="date"]:focus,
+textarea:focus,
+.widget_search form.focus {
+    border-color: #0055ff;
+}
+.input-effect ~ .focus-border {
+    background-color: #0055ff;
+}
+input[type="submit"],
+input[type="button"],
+a.button,
+.button,
+.woocommerce .page_slider a.button,
+a.button.fullwidth,
+.woocommerce-page div.product form.cart .button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"],
+body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"],
+body.learnpress-page #page-content-wrapper .order-recover .lp-button,
+.learnpress-page #learn-press-profile-basic-information button,
+body #page-content-wrapper p#lp-avatar-actions button,
+.learnpress-page #profile-content-settings form button[type="submit"],
+button,
+.woocommerce #respond input#submit,
+.elementor-widget-button {
+    font-family: CircularStd;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    line-height: 1.6;
+    text-transform: none;
+}
+input[type="submit"],
+input[type="button"],
+a.button,
+.button,
+.woocommerce .page_slider a.button,
+a.button.fullwidth,
+.woocommerce-page div.product form.cart .button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"],
+body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"],
+a#go-to-top,
+.pagination span,
+.widget_tag_cloud div a,
+.pagination a,
+.pagination span,
+body.learnpress-page #page-content-wrapper .order-recover .lp-button,
+.learnpress-page #learn-press-profile-basic-information button,
+body #page-content-wrapper p#lp-avatar-actions button,
+.learnpress-page #profile-content-settings form button[type="submit"],
+.learnpress-page #page-content-wrapper .lp-button,
+button,
+.woocommerce #respond input#submit,
+.widget_product_tag_cloud a {
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+}
+input[type="submit"],
+input[type="button"],
+a.button,
+.button,
+.pagination span,
+.pagination a:hover,
+.woocommerce .footer-main-container .button,
+.woocommerce .footer-main-container .button:hover,
+.woocommerce-page div.product form.cart .button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.post-type-icon,
+.filter li a:hover,
+.filter li a.active,
+#portfolio_wall_filters li a.active,
+#portfolio_wall_filters li a:hover,
+.comment_box,
+.one-half.gallery2 .portfolio_type_wrapper,
+.one-third.gallery3 .portfolio_type_wrapper,
+.one_fourth.gallery4 .portfolio_type_wrapper,
+.one_fifth.gallery5 .portfolio_type_wrapper,
+.portfolio_type_wrapper,
+.widget_tag_cloud div a:hover,
+.ui-accordion .ui-accordion-header .ui-icon,
+.mobile-menu-wrapper #mobile-menu-close.button,
+.mobile-menu-wrapper #btn-close-mobile-menu,
+body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"],
+body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"],
+.learnpress-page #page-content-wrapper .lp-button,
+.learnpress-page #learn-press-profile-basic-information button,
+.learnpress-page #profile-content-settings form button[type="submit"],
+button,
+.widget_search input#searchsubmit:hover,
+#wp-calendar thead th,
+#page-content-wrapper .sidebar .content .sidebar-widget li.widget_categories .cat-count,
+.widget_categories .cat-count,
+#page-content-wrapper .sidebar .content .sidebar-widget li.widget_archive .archive-count,
+.widget_archive .archive-count,
+.woocommerce #respond input#submit,
+.widget_product_tag_cloud a:hover,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce-page .widget_price_filter .price_slider_amount .button {
+    background-color: #0055ff;
+}
+.pagination span,
+.pagination a:hover,
+.button.ghost,
+.button.ghost:hover,
+.button.ghost:active,
+blockquote:after,
+.woocommerce-MyAccount-navigation ul li.is-active,
+body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"],
+body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"],
+.learnpress-page #page-content-wrapper .lp-button,
+.learnpress-page #learn-press-profile-basic-information button,
+.learnpress-page #profile-content-settings form button[type="submit"],
+.widget_search input#searchsubmit:hover,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+    border-color: #0055ff;
+}
+.comment_box:before,
+.comment_box:after {
+    border-top-color: #0055ff;
+}
+.button.ghost,
+.button.ghost:hover,
+.button.ghost:active,
+.infinite_load_more,
+blockquote:before,
+.woocommerce-MyAccount-navigation ul li.is-active a,
+body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"],
+body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"],
+#page-content-wrapper .inner .sidebar-wrapper .sidebar-widget li.widget_recent_comments ul li.recentcomments a:not(.url),
+body .post-featured-date-wrapper .post-featured-date,
+.woocommerce-page .price_slider_amount .price_label {
+    color: #0055ff;
+}
+input[type="submit"],
+input[type="button"],
+a.button,
+.button,
+.pagination a:hover,
+.woocommerce .footer-main-container .button,
+.woocommerce .footer-main-container .button:hover,
+.woocommerce-page div.product form.cart .button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.post-type-icon,
+.filter li a:hover,
+.filter li a.active,
+#portfolio_wall_filters li a.active,
+#portfolio_wall_filters li a:hover,
+.comment_box,
+.one-half.gallery2 .portfolio_type_wrapper,
+.one-third.gallery3 .portfolio_type_wrapper,
+.one_fourth.gallery4 .portfolio_type_wrapper,
+.one_fifth.gallery5 .portfolio_type_wrapper,
+.portfolio_type_wrapper,
+.widget_tag_cloud div a:hover,
+.ui-accordion .ui-accordion-header .ui-icon,
+.mobile-menu-wrapper #mobile-menu-close.button,
+#go-to-top,
+body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"],
+body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"],
+.pagination span.current,
+.mobile-menu-wrapper #btn-close-mobile-menu,
+body.learnpress-page #page-content-wrapper .lp-button,
+.learnpress-page #learn-press-profile-basic-information button,
+.learnpress-page #profile-content-settings form button[type="submit"],
+button,
+.widget_search input#searchsubmit:hover,
+#wp-calendar caption,
+#wp-calendar thead th,
+#page-content-wrapper .sidebar .content .sidebar-widget li.widget_categories .cat-count,
+.widget_categories .cat-count,
+#page-content-wrapper .sidebar .content .sidebar-widget li.widget_archive .archive-count,
+.widget_archive .archive-count,
+.woocommerce #respond input#submit,
+.widget_product_tag_cloud a:hover,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce-page .widget_price_filter .price_slider_amount .button {
+    color: #ffffff;
+}
+input[type="submit"],
+input[type="button"],
+a.button,
+.button,
+.pagination a:hover,
+.woocommerce .footer-main-container .button,
+.woocommerce .footer-main-container .button:hover,
+.woocommerce-page div.product form.cart .button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.infinite_load_more,
+.widget_tag_cloud div a:hover,
+.mobile-menu-wrapper #btn-close-mobile-menu,
+.mobile-menu-wrapper #mobile-menu-close.button,
+body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"],
+body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"],
+.learnpress-page #learn-press-profile-basic-information button,
+.learnpress-page #profile-content-settings form button[type="submit"],
+button,
+.woocommerce #respond input#submit,
+.widget_product_tag_cloud a:hover,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce-page .widget_price_filter .price_slider_amount .button {
+    border-color: #0055ff;
+}
+#wp-calendar tbody td#today {
+    border-bottom-color: #0055ff;
+}
+input[type="button"]:hover,
+input[type="submit"]:hover,
+a.button:hover,
+.button:hover,
+.button.submit,
+a.button.white:hover,
+.button.white:hover,
+a.button.white:active,
+.button.white:active,
+.black_bg input[type="submit"],
+.learnpress-page #page-content-wrapper .lp-button:hover,
+.learnpress-page #learn-press-profile-basic-information button:hover,
+.learnpress-page #profile-content-settings form button[type="submit"]:hover,
+.woocommerce #respond input#submit:hover {
+    background-color: #ffffff;
+}
+input[type="button"]:hover,
+input[type="submit"]:hover,
+a.button:hover,
+.button:hover,
+.button.submit,
+a.button.white:hover,
+.button.white:hover,
+a.button.white:active,
+.button.white:active,
+.black_bg input[type="submit"],
+body.learnpress-page #page-content-wrapper .lp-button:hover,
+.learnpress-page #learn-press-profile-basic-information button:hover,
+.learnpress-page #profile-content-settings form button[type="submit"]:hover,
+button:hover,
+.woocommerce #respond input#submit:hover {
+    color: #0055ff;
+}
+input[type="button"]:hover,
+input[type="submit"]:hover,
+a.button:hover,
+.button:hover,
+.button.submit,
+a.button.white:hover,
+.button.white:hover,
+a.button.white:active,
+.button.white:active,
+.black_bg input[type="submit"],
+.learnpress-page #learn-press-profile-basic-information button:hover,
+.learnpress-page #profile-content-settings form button[type="submit"]:hover,
+button:hover,
+.woocommerce #respond input#submit:hover {
+    border-color: #0055ff;
+}
+.frame_top,
+.frame_bottom,
+.frame_left,
+.frame_right {
+    background: #000000;
+}
+#menu-wrapper .nav ul li a,
+#menu-wrapper div .nav li > a,
+.menu-client-wrapper,
+.themegoods-navigation-wrapper .nav li > a {
+    font-family: CircularStd;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7;
+    text-transform: none;
+}
+#menu-wrapper .nav ul li,
+#menu-wrapper div .nav li,
+html[data-menu="center-menu-logo"] #logo-right-wrapper {
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+.top-menu-bar,
+html {
+    background-color: #ffffff;
+}
+#menu-wrapper .nav ul li a,
+#menu-wrapper div .nav li > a,
+#mobile-nav-icon,
+#logo-wrapper .social-profile-wrapper ul li a,
+.menu-cart-wrapper a {
+    color: #000000;
+}
+#mobile-nav-icon {
+    border-color: #000000;
+}
+#menu-wrapper .nav ul li a.hover,
+#menu-wrapper .nav ul li a:hover,
+#menu-wrapper div .nav li a.hover,
+#menu-wrapper div .nav li a:hover,
+.menu-cart-wrapper a:hover,
+#page_share:hover,
+#logo-wrapper .social-profile-wrapper ul li a:hover {
+    color: #0055ff;
+}
+#menu-wrapper .nav ul li a:before,
+#menu-wrapper div .nav li > a:before {
+    background-color: #0055ff;
+}
+#menu-wrapper div .nav > li.current-menu-item > a,
+#menu-wrapper div .nav > li.current-menu-parent > a,
+#menu-wrapper div .nav > li.current-menu-ancestor > a,
+#menu-wrapper div .nav li ul:not(.sub-menu) li.current-menu-item a,
+#menu-wrapper div .nav li.current-menu-parent ul li.current-menu-item a,
+#logo-wrapper .social-profile-wrapper ul li a:active {
+    color: #0055ff;
+}
+.top-menu-bar,
+#nav-wrapper {
+    border-color: #ffffff;
+}
+.menu-cart-wrapper .cart-counter {
+    background-color: #0055ff;
+    color: #ffffff;
+}
+#menu-wrapper .nav ul li ul li a,
+#menu-wrapper div .nav li ul li a,
+#menu-wrapper div .nav li.current-menu-parent ul li a {
+    font-family: CircularStd;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+}
+#menu-wrapper .nav ul li ul li a,
+#menu-wrapper div .nav li ul li a,
+#menu-wrapper div .nav li.current-menu-parent ul li a,
+#menu-wrapper div .nav li.current-menu-parent ul li.current-menu-item a,
+#menu-wrapper .nav ul li.megamenu ul li ul li a,
+#menu-wrapper div .nav li.megamenu ul li ul li a {
+    color: #000000;
+}
+#menu-wrapper .nav ul li ul li a:hover,
+#menu-wrapper div .nav li ul li a:hover,
+#menu-wrapper div .nav li.current-menu-parent ul li a:hover,
+#menu-wrapper .nav ul li.megamenu ul li ul li a:hover,
+#menu-wrapper div .nav li.megamenu ul li ul li a:hover,
+#menu-wrapper .nav ul li.megamenu ul li ul li a:active,
+#menu-wrapper div .nav li.megamenu ul li ul li a:active,
+#menu-wrapper div .nav li.current-menu-parent ul li.current-menu-item a:hover {
+    color: #0055ff;
+}
+#menu-wrapper .nav ul li ul li a:before,
+#menu-wrapper div .nav li ul li > a:before,
+#wrapper.transparent .top-menu-bar:not(.scroll) #menu-wrapper div .nav ul li ul li a:before {
+    background-color: #0055ff;
+}
+#menu-wrapper .nav ul li ul,
+#menu-wrapper div .nav li ul {
+    background: #ffffff;
+    border-color: #ffffff;
+}
+#menu-wrapper div .nav li.megamenu ul li > a,
+#menu-wrapper div .nav li.megamenu ul li > a:hover,
+#menu-wrapper div .nav li.megamenu ul li > a:active,
+#menu-wrapper div .nav li.megamenu ul li.current-menu-item > a {
+    color: #0055ff;
+}
+#menu-wrapper div .nav li.megamenu ul li {
+    border-color: #d8d8d8;
+}
+.above-top-menu-bar {
+    background: #ffffff;
+}
+#top-menu li a,
+.top-contact-info,
+.top-contact-info i,
+.top-contact-info a,
+.top-contact-info a:hover,
+.top-contact-info a:active {
+    color: #0055ff;
+}
+.mobile-main-nav li a,
+#side-sub-menu li a {
+    font-family: CircularStd;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 2;
+    text-transform: none;
+}
+#side-sub-menu li a {
+    font-family: CircularStd;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 2;
+    text-transform: none;
+}
+.mobile-menu-wrapper {
+    background-color: #ffffff;
+}
+.mobile-main-nav li a,
+#side-sub-menu li a,
+.mobile-menu-wrapper .sidebar-wrapper a,
+.mobile-menu-wrapper .sidebar-wrapper,
+#btn-close-mobile-menu i,
+.mobile-menu-wrapper .social-profile-wrapper ul li a,
+.fullmenu_content #copyright,
+.mobile-menu-wrapper .sidebar-wrapper h2.widgettitle {
+    color: #000000;
+}
+.mobile-main-nav li a:hover,
+.mobile-main-nav li a:active,
+#side-sub-menu li a:hover,
+#side-sub-menu li a:active,
+.mobile-menu-wrapper .social-profile-wrapper ul li a:hover {
+    color: #0055ff;
+}
+#page-header.hasbg {
+    height: 600px;
+}
+#page-header {
+    background-color: #ffffff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 45px;
+}
+#page-header .page-title-wrapper .page-title-inner {
+    text-align: left;
+}
+#page-header h1 {
+    font-family: CircularStd;
+    font-size: 55px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    line-height: 1.1;
+    text-transform: none;
+    color: #000000;
+}
+.page-tagline,
+.post-detail.single-post {
+    font-family: CircularStd;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: none;
+    color: #000000;
+}
+#page-content-wrapper .sidebar .content .sidebar-widget li h2.widgettitle,
+h2.widgettitle,
+h5.widgettitle {
+    font-family: CircularStd;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #000000;
+    border-color: #000000;
+}
+#page-content-wrapper .inner .sidebar-wrapper .sidebar .content,
+.page-content-wrapper .inner .sidebar-wrapper .sidebar .content {
+    color: #000000;
+}
+#page-content-wrapper .inner .sidebar-wrapper a:not(.button),
+.page-content-wrapper .inner .sidebar-wrapper a:not(.button) {
+    color: #000000;
+}
+.widget_nav_menu ul > li.menu-item-has-children > a:after {
+    border-color: #000000;
+}
+#page-content-wrapper .inner .sidebar-wrapper a:hover:not(.button),
+#page-content-wrapper .inner .sidebar-wrapper a:active:not(.button),
+.page-content-wrapper .inner .sidebar-wrapper a:hover:not(.button),
+.page-content-wrapper .inner .sidebar-wrapper a:active:not(.button) {
+    color: #0055ff;
+}
+#footer {
+    font-size: 14px;
+}
+.footer-main-container-wrapper {
+    font-size: 13px;
+}
+.footer-main-container,
+#footer {
+    background-color: #ffffff;
+}
+#footer,
+#copyright,
+#footer-menu li a,
+#footer-menu li a:hover,
+#footer-menu li a:active,
+#footer input[type="text"],
+#footer input[type="password"],
+#footer input[type="email"],
+#footer input[type="url"],
+#footer input[type="tel"],
+#footer input[type="date"],
+#footer textarea,
+#footer blockquote {
+    color: #000000;
+}
+#copyright a,
+#copyright a:active,
+#footer a,
+#footer a:active#footer_photostream a {
+    color: #000000;
+}
+#footer .sidebar-widget li h2.widgettitle {
+    border-color: #000000;
+    color: #000000;
+}
+#copyright a:hover,
+#footer a:hover,
+.social-profile-wrapper ul li a:hover,
+#footer a:hover,
+#footer_photostream a:hover {
+    color: #0055ff;
+}
+#footer table tr td,
+#footer .widget_tag_cloud div a {
+    border-color: #d8d8d8;
+}
+#footer table tbody tr:nth-child(even) {
+    background: #d8d8d8;
+}
+.footer-main-container {
+    background-color: #ffffff;
+}
+.footer-main-container,
+#copyright {
+    color: #000000;
+}
+.footer-main-container a,
+#copyright a,
+#footer-menu li a {
+    color: #0055ff;
+}
+.footer-main-container a:hover,
+#copyright a:hover,
+#footer-menu li a:hover {
+    color: #0055ff;
+}
+.footer-main-container-wrapper,
+.footer-main-container {
+    border-color: #d8d8d8;
+}
+.footer-main-container-wrapper .social-profile-wrapper ul li a {
+    color: #0055ff;
+}
+a#go-to-top {
+    background: rgba(0, 0, 0, 0.1);
+    color: #ffffff;
+}
+#page-content-wrapper.blog-wrapper,
+.post-excerpt.post-tag a:after,
+.post-excerpt.post-tag a:before,
+.post-navigation .navigation-post-content {
+    background-color: #ffffff;
+}
+.post-info-cat,
+.post-info-cat a {
+    color: #9b9b9b;
+    border-color: #9b9b9b;
+}
+.post-featured-image-hover .post-type-icon,
+a.continue-reading:before,
+a.continue-reading:after,
+a.continue-reading span:before,
+a.continue-reading span:after {
+    background: #0055ff;
+}
+.blog_post-content-wrapper.layout_grid .post-content-wrapper,
+.blog_post-content-wrapper.layout_masonry .post-content-wrapper,
+.blog_post-content-wrapper.layout_metro .post-content-wrapper,
+.blog_post-content-wrapper.layout_classic .post-content-wrapper {
+    background: #ffffff;
+}
+.post-header h5,
+h6.subtitle,
+.post-caption h1,
+#page-content-wrapper .posts.blog li a,
+.page-content-wrapper .posts.blog li a,
+#post_featured_slider li .slider_image .slide_post h2,
+.post-header.grid h6,
+.sidebar-widget li.widget_recent_comments ul li.recentcomments a:not(.url),
+#page-content-wrapper .sidebar .content .sidebar-widget li.widget_rss ul li a.rsswidget,
+#footer-wrapper ul.sidebar-widget li.widget_rss ul li a.rsswidget,
+a.continue-reading {
+    font-family: CircularStd;
+    font-weight: 700;
+    letter-spacing: 0px;
+    text-transform: none;
+}
+body.single-post #page-header h1,
+.post-featured-date-wrapper {
+    font-family: CircularStd;
+    font-size: 55px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    line-height: 1.3;
+    text-transform: none;
+}
+body.single-post #page-header .page-title-wrapper .page-title-inner {
+    text-align: center;
+}
+body.single-post #post-featured-header {
+    height: 650px;
+}
+body.single-post #page-content-wrapper.blog-wrapper,
+.post-related .post-header-wrapper {
+    background: #ffffff;
+}
+.post-excerpt.post-tag a {
+    background: #f0f0f0;
+    color: #444;
+}
+.post-excerpt.post-tag a:after {
+    border-left-color: #f0f0f0;
+}
+.woocommerce ul.products li.product .price ins,
+.woocommerce-page ul.products li.product .price ins,
+.woocommerce ul.products li.product .price,
+.woocommerce-page ul.products li.product .price,
+p.price ins span.amount,
+.woocommerce #content div.product p.price,
+.woocommerce #content div.product span.price,
+.woocommerce div.product p.price,
+.woocommerce div.product span.price,
+.woocommerce-page #content div.product p.price,
+.woocommerce-page #content div.product span.price,
+.woocommerce-page div.product p.price,
+.woocommerce-page div.product span.price {
+    color: #999999;
+}
+.woocommerce .products .onsale,
+.woocommerce ul.products li.product .onsale,
+.woocommerce span.onsale {
+    background-color: #0055ff;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a {
+    color: #ffffff;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active {
+    background: #0055ff;
+}
+body.single-product div.product.type-product {
+    background: #ffffff;
+}
+
