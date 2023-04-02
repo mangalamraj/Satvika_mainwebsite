@@ -1575,7 +1575,7 @@ body.centeralign #menu-wrapper div .nav>li {
 }
 
 #menu-wrapper .nav li.arrow>a:after,
-#menu-wrapper div .nav li.arrow>a:after {}
+#menu-wrapper div .nav li.arrow>a:after 
 
 #menu-wrapper .nav ul li.arrow>a:after,
 #menu-wrapper div .nav li.arrow>a:after {
@@ -8723,7 +8723,7 @@ body.woocommerce #page-header-overlay {
     width: 50%;
     height: 100%;
     background: #fff !important; 
-    opacity: 1 !!important;
+    opacity: 1 !important;
     transition: all 0s;
     will-change: transform;
 }
@@ -8810,3 +8810,5 @@ body.woocommerce #page-header-overlay {
 
 
 }
+
+
